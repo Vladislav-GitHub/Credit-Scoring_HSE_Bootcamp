@@ -15,8 +15,6 @@ It was necessary to use Scikit-learn, CatBoostClassifier for Machine Learning an
 
 ## Explaining the project
 My final project is a web app written in python that allows the user to enter client's credit history to get wage prediction.
-
-## project.py for Machine Learning, test_project.py for testing, app.py for a website in which this ML model predicts the candidate wage
 All information about credit for each client are stored in credit_scoring.csv.
 
 
