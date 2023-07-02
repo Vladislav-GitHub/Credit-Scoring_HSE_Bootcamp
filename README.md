@@ -14,10 +14,10 @@ I've used Scikit-learn, CatBoost and Streamlit web framework based in Python.
 It was necessary to use Scikit-learn, CatBoostClassifier for Machine Learning and Streamlit, which provides configuration and conventions, with sensible defaults.
 
 ## Explaining the project
-My final project is a web app written in python that allows the user to enter client's ??? to get wage prediction.
+My final project is a web app written in python that allows the user to enter client's credit history to get wage prediction.
 
 ## project.py for Machine Learning, test_project.py for testing, app.py for a website in which this ML model predicts the candidate wage
-All information about ??? for each client are stored in job_search.csv.
+All information about credit for each client are stored in credit_scoring.csv.
 
 
 ### ML model can be saved in file with ".pkl" extension
