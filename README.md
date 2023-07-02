@@ -6,7 +6,7 @@
 >python, ML, Ensemble methods, Booosting, CatBoost, Streamlit, web development, Scikit-learn
 ## Features
 
-- [Streamlit]([https://flask.palletsprojects.com/en/2.2.x/](https://docs.streamlit.io/))
+- [Streamlit](https://docs.streamlit.io/)
 - [Scikit-learn](https://scikit-learn.org/stable/)
 - [CatBoost](https://catboost.ai/en/docs/)
 
